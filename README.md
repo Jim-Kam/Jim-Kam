@@ -16,11 +16,10 @@ I am a comp-sci student (currently in high school). I am keen to learn backend a
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-#
 
 ### 📊 Stats
 
-![Jim-Kam's GitHub stats](https://github.com/Jim-Kam?tab=stars&show_icons=true&theme=gruvbox)
+![Jim-Kam's GitHub stats](Jim-Kam&show_icons=true&theme=gruvbox)
 #
 
 ### 📧 Email 
